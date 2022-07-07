@@ -75,6 +75,14 @@ NRC: 7318
 
 **Capitulo 10**
 
+**14. ¿Cuál es la fuerza magnetizante en el problema 9 si la longitud del núcleo es de 0.2 m?**
+
+![r14](https://user-images.githubusercontent.com/105677231/177788039-f43d59dd-01df-442f-a6f4-e0763f161f67.JPG)
+
+**16. En la figura 10-44, hay 500 vueltas. Determine:
+
+![f10-44](https://user-images.githubusercontent.com/105677231/177788395-97396403-f816-4bbf-8e3c-a89e89412529.JPG)
+
 
 **4. Video**
 
