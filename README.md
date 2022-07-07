@@ -292,4 +292,10 @@ Solucion:
 
 **5. Conclusiones**
 
+-Los nuevos metodos estudiados son de gran ayuda para calcular otro tipo de datos como sintesis para obtener los mismos resultados con los otros metodos, depende de cada uno utilizar cualquiera de estos.
+
+-Los dispositivos electromagneticos tiene una gran influencia en la vida del ser humano ya que gracias a sus varias aplicaciones se puede contar con una mejor mecanica en el mundo.
+
+- Gracias a estos aparatos la ciencia a podido descubrir nuevas formas de energía para ayudar al planeta ya que en la antiguedad al ser todo analogico, se operaba con mas dificultad.
+
 **6. Bibliografía**
