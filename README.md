@@ -290,6 +290,8 @@ Solucion:
 
 **4. Video**
 
+https://youtu.be/1KA_64aWpzQ
+
 **5. Conclusiones**
 
 -Los nuevos metodos estudiados son de gran ayuda para calcular otro tipo de datos como sintesis para obtener los mismos resultados con los otros metodos, depende de cada uno utilizar cualquiera de estos.
