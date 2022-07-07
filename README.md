@@ -296,6 +296,8 @@ Solucion:
 
 -Los dispositivos electromagneticos tiene una gran influencia en la vida del ser humano ya que gracias a sus varias aplicaciones se puede contar con una mejor mecanica en el mundo.
 
-- Gracias a estos aparatos la ciencia a podido descubrir nuevas formas de energía para ayudar al planeta ya que en la antiguedad al ser todo analogico, se operaba con mas dificultad.
+-Gracias a estos aparatos la ciencia a podido descubrir nuevas formas de energía para ayudar al planeta ya que en la antiguedad al ser todo analogico, se operaba con mas dificultad.
 
 **6. Bibliografía**
+
+Floyd, T. M. (2007). 5 Principios de Circuitos Electricos (8.a ed.). Pearson Education.
