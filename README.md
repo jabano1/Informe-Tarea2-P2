@@ -134,6 +134,54 @@ Solucion:
 
 ![image](https://user-images.githubusercontent.com/105677231/177867418-10cdb9b4-262a-4eb7-a38f-ac576aa50c6a.png)
 
+**12. Resuelva para cada una de las corrientes de rama ilustradas en la figura 9-26**
+
+![image](https://user-images.githubusercontent.com/105677231/177867529-b8f216cb-1757-4dc9-a1c2-e7d335686ada.png)
+
+Solucion:
+
+Sistema de Ecuaciones
+
+(8.2) I2+10I2-12=0 (1)
+
+10I2+(5.6) I3-6=0 (2)
+
+Nodo A
+
+0=I1-I2-I3
+
+I1=I2+I3 (3)
+
+Reemplazamos la ecuación (3) en la ecuación (1)
+
+(8.2) (I2+I3) +10I2=12
+
+(18.2) I2+(8.2) I3=12 (4)
+
+Despejamos la ecuación (2)
+
+![image](https://user-images.githubusercontent.com/105677231/177867709-ed9ead5a-c929-45e5-8d07-2e4a65d9ec5d.png)
+
+Remplazamos I2 en la ecuación (4)
+
+![image](https://user-images.githubusercontent.com/105677231/177867797-46bd55f1-51f6-43d8-8204-aa8f05c4413d.png)
+
+**14. Determine la corriente a través de cada resistor mostrado en la figura 9-27.**
+
+![image](https://user-images.githubusercontent.com/105677231/177867847-4a3fe825-0c17-4442-b02e-8eb402f9966d.png)
+
+Solucion:
+
+![image](https://user-images.githubusercontent.com/105677231/177867885-cb730309-237b-468a-bf1c-31a27de05be9.png)
+
+La corriente Is es la misma que pasa R3 
+
+Is=IR3=100 mA
+
+Se deduce que la corriente que entra es la misma que sale por lo tanto I1=100mA
+
+I2=(100/147)(100)=68.03mA
+
 
 
 
