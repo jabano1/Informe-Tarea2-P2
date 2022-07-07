@@ -244,15 +244,49 @@ Solucion:
 
 ![image](https://user-images.githubusercontent.com/105677231/177869266-6967543e-4aa6-47e1-b13d-57e2c7a25b86.png)
 
+**30. Determine el voltaje en los puntos A, B y C en la figura 9-34.**
+![image](https://user-images.githubusercontent.com/105677231/177873416-f49a753e-51d5-4465-ad9c-bf938fd93021.png)
+
+Solucion:
+
+![image](https://user-images.githubusercontent.com/105677231/177873470-f74c1973-957d-4e65-8b8a-8e873eef7e56.png) ![image](https://user-images.githubusercontent.com/105677231/177873496-f141aa0c-812a-47f9-8890-c6ffbf1e94c7.png)
+
+![image](https://user-images.githubusercontent.com/105677231/177873541-c4fd027c-2324-489d-8c91-e0e2c4857859.png)
 
 
-
-
-
-
-
+***
 
 **Capitulo 10**
+
+**2. En cierto campo magnético, el área de sección transversal es de 0.5 m^(2) y el flujo es de 1500 µWb. ¿Cuál es la densidad de flujo?**
+
+![image](https://user-images.githubusercontent.com/105677231/177873655-d0a50d94-8f52-4b46-8b50-3325c1272e27.png)
+
+**4. En un lugar dado, suponga que el campo magnético terrestre es de 0.6 gauss. Exprese esta densidad de flujo en teslas.**
+
+![image](https://user-images.githubusercontent.com/105677231/177873698-db3f49fa-e788-4e5d-a47f-ded15f51343d.png)
+
+**6. ¿Qué le sucede a la aguja de la brújula mostrada en la figura 10-9 cuando la corriente que circula a través del conductor se invierte?**
+
+![image](https://user-images.githubusercontent.com/105677231/177873755-1c675ab6-39d7-4a1e-90ca-2b7c09f8b396.png)
+
+-Si la corriente que pasa por el conductor se invierte, la rotación de las líneas de fuerza también se invertirían por ende la brújula llegaría a mostrar el lado opuesto. 
+
+**8. Determine la reluctancia de un material con longitud de 0.28 m y área de sección transversal de 0.08 m2 si la permeabilidad absoluta es de 150 × 10 ^(-7) Wb/Atm.**
+
+![image](https://user-images.githubusercontent.com/105677231/177873847-3740a4d0-509b-452d-b3ee-8ca3e126a19b.png)
+
+**10. De manera característica, cuando se activa un solenoide, ¿se extiende o retrae el émbolo de imán?**
+
+![image](https://user-images.githubusercontent.com/105677231/177873889-dac5979e-0799-4c34-932b-1d0c16620ba4.png)
+
+-Cuando se llega a energizar un solenoide el émbolo de imán se llega a retraer, como se ve en la figura.
+
+**12. Explique la secuencia de los eventos mostrados en el circuito de la figura 10-43 comenzando cuando el interruptor 1 (SW1) se cierra.**
+
+![image](https://user-images.githubusercontent.com/105677231/177873966-2ec114e3-e28a-4198-92c7-b2afb7338ffa.png)
+
+-El circuito esta alimentado por una fuente de voltaje, y si el interruptor 1 (SW1) se cierra permite el paso de la corriente de la fuente hacia la bobina del relevador, la cual energiza el contacto que esta alimentado por 9V haciendo que se cierre y a su vez este ilumine las lámparas 1 y 2.
 
 **14. ¿Cuál es la fuerza magnetizante en el problema 9 si la longitud del núcleo es de 0.2 m?**
 
