@@ -72,6 +72,71 @@ NRC: 7318
 ***
 **Capitulo 9**
 
+**2. Evalúe cada determinante:**
+
+![2a](https://user-images.githubusercontent.com/105677231/177866050-efc9d371-103d-42c3-93fc-cf665d0f59d5.JPG)
+
+Solucion:
+
+a)12-12 = 0
+
+b) 45
+
+c) -2000-1500=-3500
+
+**4. Evalúe cada uno de los determinantes:**
+
+![4 9](https://user-images.githubusercontent.com/105677231/177866231-088f6970-d372-4ed9-bcba-d0b4bb489969.JPG)
+
+Solucion:
+
+a) -10+16 = 6
+
+b) (3-0.15+0.024-0.096+0.225+0.5) =3,503
+
+**6. Determine I3 en el ejemplo 9-4.**
+
+![image](https://user-images.githubusercontent.com/105677231/177866395-cdac551e-6ec4-4e30-8a3d-a3b04e868af0.png)
+
+Solucion:
+
+-Formando un determinante se obtiene: (0 + 3 + 0.15) - (0 + 0.8 + 0) = 3.15 - 0.8 = 2.35
+
+![image](https://user-images.githubusercontent.com/105677231/177866561-79d2759f-6e1f-4c9f-b311-eb082364115d.png)
+
+**8.  Determine V1, V2, V3 y V4 resolviendo el siguiente conjunto de ecuaciones con una calculadora:**
+
+![image](https://user-images.githubusercontent.com/105677231/177866609-60477912-ecd3-4068-8d02-4e03d36206d9.png)
+
+Solucion:
+
+![image](https://user-images.githubusercontent.com/105677231/177866933-425db986-63ba-425c-a10c-56c8067a01e0.png)
+
+![image](https://user-images.githubusercontent.com/105677231/177866965-6aa056ef-c743-4385-9a85-a3ca156ae568.png)
+
+![image](https://user-images.githubusercontent.com/105677231/177866989-f9ae0309-e1db-45cd-bd39-dce06ac4a9eb.png)
+
+![image](https://user-images.githubusercontent.com/105677231/177867013-f200803e-7bf4-4b61-a973-ec3b41d3d242.png)
+
+![image](https://user-images.githubusercontent.com/105677231/177867104-76bdba36-f8a0-41aa-b84b-d0e90c90fb4d.png)
+
+**10. Resuelva las tres ecuaciones simultáneas del problema 7 con su calculadora.**
+
+![image](https://user-images.githubusercontent.com/105677231/177867175-d53727c7-86fd-4c13-8937-8ce7850a6834.png)
+
+Solucion:
+
+![image](https://user-images.githubusercontent.com/105677231/177867322-5aeade5a-eb8f-4a11-82b8-e1e86018c591.png)
+
+![image](https://user-images.githubusercontent.com/105677231/177867359-3723ea25-cf4e-416c-a65b-d3ea43901103.png)
+
+![image](https://user-images.githubusercontent.com/105677231/177867377-af97d6ec-021a-448c-b728-56d1f7a3a0bd.png)
+
+![image](https://user-images.githubusercontent.com/105677231/177867418-10cdb9b4-262a-4eb7-a38f-ac576aa50c6a.png)
+
+
+
+
 
 **Capitulo 10**
 
