@@ -70,6 +70,11 @@ NRC: 7318
 
 **3. Explicacion y Resolucion de ejercicios**
 ***
+**Capitulo 9**
+
+
+**Capitulo 10**
+
 
 **4. Video**
 
