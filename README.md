@@ -182,6 +182,72 @@ Se deduce que la corriente que entra es la misma que sale por lo tanto I1=100mA
 
 I2=(100/147)(100)=68.03mA
 
+**16. Escriba el determinante característico para las ecuaciones:**
+
+![image](https://user-images.githubusercontent.com/105677231/177868212-ce146512-52d1-49d3-8593-d0a9e39d07f4.png)
+
+Solucion:
+
+![image](https://user-images.githubusercontent.com/105677231/177868287-4976cab2-7d55-4268-a4e5-e5b52af26d50.png)
+
+**18. Determine las corrientes de rama en la figura 9-28.**
+
+![image](https://user-images.githubusercontent.com/105677231/177868352-91e2cbbf-8009-447d-9906-d31e54bfa91b.png)
+
+Solucion:
+
+![image](https://user-images.githubusercontent.com/105677231/177868418-5f0df7dd-3cda-40cc-8b65-d54ea9e93870.png) ![image](https://user-images.githubusercontent.com/105677231/177868444-fa6838dd-d0d6-4391-92a6-a73c310c4af8.png)
+
+**20. Escriba las ecuaciones de lazo para el circuito de la figura 9-29.**
+
+![image](https://user-images.githubusercontent.com/105677231/177868548-21ec8c88-6211-43fb-876e-331dfc1a04dc.png)
+
+SOlucion:
+
+![image](https://user-images.githubusercontent.com/105677231/177868580-16d27df3-45c4-4521-a107-9ad4c068bcec.png)
+
+**22. Determine la corriente a través de cada resistor en la figura 9-29**
+
+![image](https://user-images.githubusercontent.com/105677231/177868611-e06100f9-585e-4757-a5ee-50c510a63bc3.png)
+
+Solucion:
+
+![image](https://user-images.githubusercontent.com/105677231/177868682-d3877af6-c65b-4299-88eb-fb73a4a1af56.png)
+
+**24. Cuando se conecta un resistor de 10 kΩ desde la terminal A hasta la terminal B en la figura 9-30, ¿cuál es la corriente que circula a través de él?**
+
+![image](https://user-images.githubusercontent.com/105677231/177868845-b49f530d-d42c-40cd-8933-eb9f375ee329.png)
+
+Solucion:
+
+![image](https://user-images.githubusercontent.com/105677231/177868888-10423928-2046-49b2-a8a8-f4863c345c3d.png)
+
+![image](https://user-images.githubusercontent.com/105677231/177868911-2ba92746-0c16-4a23-8084-d5e5428e718e.png) ![image](https://user-images.githubusercontent.com/105677231/177868933-61ce2f76-1a21-4dc4-87ca-488961e93916.png)
+
+![image](https://user-images.githubusercontent.com/105677231/177868979-94c73da6-b06f-402f-bd92-a5ce850ef6a5.png)
+
+**26. En la figura 9-32, use el método del voltaje en nodos para determinar el voltaje presente en el punto A con respecto a tierra.**
+
+![image](https://user-images.githubusercontent.com/105677231/177869047-cf54aad3-5fb2-4c39-a738-dc4eeba102ef.png)
+
+Solucion:
+
+![image](https://user-images.githubusercontent.com/105677231/177869080-231f04b4-7c32-4f6d-a42a-665684980ba0.png)
+
+![image](https://user-images.githubusercontent.com/105677231/177869122-502c5125-ed8e-4856-97f2-90c998e9bae8.png)
+
+**28. Escriba las ecuaciones de voltaje de nodo para la figura 9-29. Use su calculadora para determinar los voltajes de nodo.**
+
+![image](https://user-images.githubusercontent.com/105677231/177869159-bffb8397-54c0-4690-b6e6-7722e8c5fd01.png)
+
+Solucion:
+
+![image](https://user-images.githubusercontent.com/105677231/177869266-6967543e-4aa6-47e1-b13d-57e2c7a25b86.png)
+
+
+
+
+
 
 
 
