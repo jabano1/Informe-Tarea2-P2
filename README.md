@@ -86,6 +86,7 @@ NRC: 7318
 Solucion:
 
 ![16 a](https://user-images.githubusercontent.com/105677231/177809374-b6834446-45e5-4842-9b72-cc4875e3ec53.JPG)
+
 ![16 bc](https://user-images.githubusercontent.com/105677231/177809390-c24d921f-36f6-4073-9d14-f8ca40599245.JPG)
 
 **18. De acuerdo con la ley de Faraday, ¿qué le sucede al voltaje inducido en una bobina dada si la razón de cambio del flujo magnético se duplica?**
