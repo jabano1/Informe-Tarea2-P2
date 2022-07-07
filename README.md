@@ -79,10 +79,34 @@ NRC: 7318
 
 ![r14](https://user-images.githubusercontent.com/105677231/177788039-f43d59dd-01df-442f-a6f4-e0763f161f67.JPG)
 
-**16. En la figura 10-44, hay 500 vueltas. Determine:
+**16. En la figura 10-44, hay 500 vueltas. Determine:**
 
 ![f10-44](https://user-images.githubusercontent.com/105677231/177788395-97396403-f816-4bbf-8e3c-a89e89412529.JPG)
 
+Solucion:
+
+![16 a](https://user-images.githubusercontent.com/105677231/177809374-b6834446-45e5-4842-9b72-cc4875e3ec53.JPG)
+![16 bc](https://user-images.githubusercontent.com/105677231/177809390-c24d921f-36f6-4073-9d14-f8ca40599245.JPG)
+
+**18. De acuerdo con la ley de Faraday, ¿qué le sucede al voltaje inducido en una bobina dada si la razón de cambio del flujo magnético se duplica?**
+
+-Si la razón de cambio del flujo magnético se duplica, el voltaje inducido en la bobina también se duplicará, ya que según la ley de Faraday, el voltaje inducido en una bobina es directamente proporcional a la rapidez de cambio del campo magnético.
+
+**20. Un campo magnético cambia a razón de 3500 * 10^-3 Wb/s. ¿Cuánto voltaje se induce en una bobina de 500 vueltas colocada en el campo magnético?**
+
+Solucion:
+
+![20 a](https://user-images.githubusercontent.com/105677231/177809940-1ed63d77-8741-49af-aa85-cf5035dbb9bd.JPG)
+
+**22. En la figura 10-33, ¿por qué no se induce voltaje cuando el disco no está girando?**
+
+![f0-33](https://user-images.githubusercontent.com/105677231/177810080-67d2304b-0488-4969-adf9-7a99b6a1771f.JPG)
+
+-No produciría voltaje ya que el apéndice de acero o diente saliente no pasa por el entrehierro del imán, entonces al no producir un campo magnético cambiante, no hay voltaje inducido. 
+
+**24. Un generador de cd básico de una espira gira a 60 rev/s. ¿Cuántas veces cada segundo llega el voltaje de cd de salida a su pico (alcanza un máximo)?**
+
+-Como una rotación tiene cuatro posiciones, entonces el voltaje de cd de salida llega 15 veces cada segundo a su pico alcanzando un voltaje máximo. 
 
 **4. Video**
 
